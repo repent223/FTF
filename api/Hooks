@@ -1,6 +1,6 @@
 local Hooks = {
-    Accept = "",
-    Reject = "",
+    Accept = "https://discord.com/api/webhooks/1507004567211085924/zYAHptFpF7oFxwerl89GLCDuZKu4VLFXPVFRfBOg4OywmkeIX2GBg-GHimmunZmWk-Uj",
+    Reject = "https://discord.com/api/webhooks/1507004644973346928/9ixkWkAz6maVPnQVnG7yj_pRRvijd5ZQ3jKD7eZ-icgjDc6dxMT_6WZ7-h72xYZKxKTF",
 }
 
 return Hooks
