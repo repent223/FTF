@@ -7,7 +7,7 @@ return {
     ["1d74127300970e1bc383b7daccf41528a4de1e771bf4be6c3ef7140f8182236a67721d4bac6dbf56873061bf36c659d8fc27333d57436e78b4543165d0288ecf"] = "riri",
     ["bae439ab-289d-11f1-9687-806e6f6e6963"] = "SENAP",
     ["1578a282-bb41-11f0-82ce-806e6f6e6963"] = "wise",
-    ["4c95255b-1f9a-11f1-b732-806e6f6e6963"] = "ahf",
+    ["4c95255b-1f9a-11f1-b732-806e6f6e6963"] = "daddy 2",
     ["bcb21918-89d1-11f0-9b52-806e6f6e6963"] = "luke",
     ["3ff15801-3ad4-11f1-ad8a-806e6f6e6963"] = "simplytown",
     ["1522eb4a-48d1-11f1-b40a-806e6f6e6963"] = "brokensfr",
@@ -40,4 +40,5 @@ return {
     ["d1740c65473e5e75ca21a8ea3ccd15b9cb38c3c9e96be927ae77e1e17afb45db852d38780c139c37242dcee53c6875e5f0883fcb28ed267a91f96164deeda7d2"] = "TKOJ",
     ["c87b010b-4bac-11f1-a56d-806e6f6e6963"] = "Zacky",
     ["B18C1E6F2A7F0E9433FCE84F98DCA314878C3D8FE941648EF366E6AB765017A1"] = "Supercova",
+    ["fb73402d-6d6b-11f0-add1-806e6f6e6963"] = "eric",
 };
