@@ -1,6 +1,6 @@
 local Hooks = {
-    Accept = "https://discord.com/api/webhooks/1507004567211085924/zYAHptFpF7oFxwerl89GLCDuZKu4VLFXPVFRfBOg4OywmkeIX2GBg-GHimmunZmWk-Uj",
-    Reject = "https://discord.com/api/webhooks/1507004644973346928/9ixkWkAz6maVPnQVnG7yj_pRRvijd5ZQ3jKD7eZ-icgjDc6dxMT_6WZ7-h72xYZKxKTF",
+    Accept = "https://discord.com/api/webhooks/1515617552875651074/Ywlukv8s4Bv9gfMvd_kHWJh626UWf_Mxa7GUp84op-FaPG8wnkMoJphHZ48z711qCoUu",
+    Reject = "https://discord.com/api/webhooks/1515617683939393567/bzd75fDR1_1q9sB3XhJ78KvYogg2aXMdivojGevJIwWn59Ex_jybj8fPWZkUZqOSY7a6",
 }
 
 return Hooks
